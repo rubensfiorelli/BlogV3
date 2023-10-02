@@ -1,4 +1,4 @@
-# BlogV3 - Objeto de estudo baseado no Blog do Balta.Io
+# API - BlogV3 - Objeto de estudo baseado no Blog do Balta.Io
 
 Porém agora essa API alem de fazer a integração com um banco SQL server rodando no Docker ou no Azure, basta mudar a conexão. Esta desenvolvida em Camadas bem definidas utilizando padrao Clean Arch.
 
